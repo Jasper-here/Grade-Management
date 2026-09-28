@@ -1,5 +1,5 @@
 # Grade-Management
-Overview
+Introduction
 
 The Grade Management System is a simple Python-based command-line application designed to manage student grades. It allows users to add, update, delete, and view student records through an interactive menu.
 
