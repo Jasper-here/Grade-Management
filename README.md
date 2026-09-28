@@ -54,10 +54,10 @@ How to Run:-
 3. Run the Project
       python grade_management.py
 
-Project Structure:-
-      Grade-Management-System 
-            1. grade_management.py 
-            2. README.md
+Project Structure:- 
+      Grade Management System:
+            grade_management.py,
+            README.md
 
 Future Enhancements:- 
 1. Add permanent data storage
@@ -73,6 +73,6 @@ The Grade Management System is a beginner-friendly Python project that demonstra
 
 Author
 
-Apurv Shukla 
-CSE – AI/ML 
+Apurv Shukla,
+CSE – AI/ML,
 Python Project
